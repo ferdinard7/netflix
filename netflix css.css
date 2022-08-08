@@ -1,0 +1,57 @@
+button {
+    color: white;
+    background-color: red;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 2px;
+    font-size: 1.2em;
+    padding-bottom: 12.9px;
+    cursor: pointer;
+    margin-left: -2px;
+  
+
+}
+
+#foot {
+    display: flex;
+    flex-direction: row;
+  
+}
+
+#margin-target {
+    margin-left: 70px;
+}
+
+select {
+    background-color: black;
+    padding: 10px 20px;
+    color: white;
+}
+
+option {
+   color: white;
+} 
+
+#netflixcover {
+    background-image: url('netflix-cover.jpg');
+    background-size: cover;
+   
+}
+
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(17, 17, 17);
+    color: white;
+}
+
+input {
+    height: 41px;
+    width: 29%;
+    padding-left: px;
+    padding-right: 9px;
+    padding-top: 2px;
+    padding-bottom: 0px;
+}
